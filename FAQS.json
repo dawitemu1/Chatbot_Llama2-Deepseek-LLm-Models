@@ -1,0 +1,86 @@
+{
+  "faqs": [
+    {
+      "question": "What types of credit services does the bank offer?",
+      "answers": {
+        "english": "Our bank offers personal loans, business loans, mortgage loans, and overdraft facilities.",
+        "amharic": "ባንካችን የግል ብድር፣ የንግድ ብድር፣ የቤት ግዢ ብድር፣ እና የባለሙያ ክፍያዎችን ይሰጣል።",
+        "afaan_oromoo": "Baankiin keenya liqii dhuunfaa, liqii daldalaa, liqii mana gurgurtaa fi overdraft ni kennina.",
+        "tigrinya": "ባንኪና ግለዊ ብድር፣ ድሕረ ወለድ ብድር፣ ወለድ ብድርን እንዲሁም የተሳኺ ናይ ውልቀርሕ ባንኪ ድምር ይሃበ።"
+      }
+    },
+    {
+      "question": "How can I apply for a credit loan?",
+      "answers": {
+        "english": "You can apply online through our banking portal or visit any branch with valid identification, proof of income, and collateral documents (if required).",
+        "amharic": "በመስመር ላይ በባንካችን ድህረ ገጽ ማመልከት ወይም የተበቁ መታወቂያ፣ የገቢ ማረጋገጫ እና የዋስትና ሰነዶችን (ከሚያስፈልጉ ጋር) ተሟጋችበት ቅርንጫፍ መሄድ ትችላለህ።",
+        "afaan_oromoo": "Liqa fudhachuuf karaa marsariitii baankii keenyaa online galmaa’uun yookaan laafaa eeguuf ragaa eenyummaa, ragaa galii fi barruu kaffaltii (yoo barbaachise) baankii keessa dhiyeessu dandeessa.",
+        "tigrinya": "በመስመር ላይ በባንኪና ፖርታል ምልከት ወይም ቅርንጫፍ በግልጽ መረጃ፣ ምስክር ወረቀት የገቢ ወረቀትን እና የማስረጃ ወረቀት (እንዲሁም የዋስትና ሰነድ ከሚያስፈልጉ) ይደረሱ።"
+      }
+    },
+    {
+      "question": "What is the interest rate for credit loans?",
+      "answers": {
+        "english": "Interest rates vary based on loan type and duration. Please visit our website or contact customer service for updated rates.",
+        "amharic": "የወለድ መጠን በብድር ዓይነትና ቆይታ ላይ ይለዋወጣል። እባኮትን ዘመኑ መረጃ ለማግኘት ድህረ ገጻችንን ይጎብኙ ወይም አገልግሎት ሰጭ ተደራራች ይደውሉ።",
+        "afaan_oromoo": "Sadarkaan hojii gatii yeroo fudhatamu fi akkamitti ta’u danda’u garagarummaa qaba. Mee marsariitii keenya ilaalaa yookaan tajaajilaa maamiltootaa qunnamaa.",
+        "tigrinya": "ወለድ እንተዛረበ ከምዘሎ የውድር ዓይነትን የስዕን ግዜ እንዲሁም ይለዋወጣል። እባኮትን ዘመኑ መረጃ ለማግኘት ኣንብረቶም ወይም ኣገልግሎት ሰጪ ሙያዊ ይጽዓኑ።"
+      }
+    },
+    {
+      "question": "How long does it take for a credit loan to be approved?",
+      "answers": {
+        "english": "Loan approval usually takes 3–7 business days, depending on document verification and credit assessment.",
+        "amharic": "የብድር ፈቃድ በተሰጠ ሰነድ ማረጋገጫ እና የብድር ግምገማ ላይ ተመስርቶ 3-7 የስራ ቀኖች ይወስዳል።",
+        "afaan_oromoo": "Liqiin fudhatamuu isaa waggaa hojii 3-7 keessaa fudhata, kan raawwii ragaa fi madaallii liqii irratti hundaa’e.",
+        "tigrinya": "ምምልካት ውልቀርሕ ከ3-7 ዕለት እንዳሎ እንተዝሪቡ ከእዋን ናይ ቋም ወረቀት እና ውልቀርሕ ምምሕዳር ይውሓድ።"
+      }
+    }
+  ]
+}
+
+
+{
+  "CBEBIRR_FAQ": [
+    {
+      "question_en": "What is CBEBIRR?",
+      "question_am": "CBEBIRR ምንድን ነው?",
+      "question_or": "CBEBIRR maalidha?",
+      "question_ti": "CBEBIRR ማለት እንታይ ማለት እዩ?",
+      "answer_en": "CBEBIRR is a mobile money service that allows users to send, receive, and store money via their mobile phones.",
+      "answer_am": "CBEBIRR ተጠቃሚዎች በሞባይል ስልካቸው ገንዘብ እንዲልኩ፣ እንዲቀበሉ እና እንዲያከማቹ የሚያስችል የሞባይል ገንዘብ አገልግሎት ነው።",
+      "answer_or": "CBEBIRR tajaajila maallaqa mobaayilaa kan fayyadamtoonni bilbila isaaniitiin maallaqa erguu, fudhachuu fi kuusuu danda'anidha.",
+      "answer_ti": "CBEBIRR ተጠቃሚታት ብሞባይሎም ገንዘብ ክልእኹ፣ ክቕበሉን ከቐምጡን ዝሕግዝ ናይ ሞባይል ገንዘብ ኣገልግሎት እዩ።"
+    },
+    {
+      "question_en": "How do I register for CBEBIRR?",
+      "question_am": "ለCBEBIRR እንዴት መመዝገብ እችላለሁ?",
+      "question_or": "CBEBIRRtti akkamitti galmaa'uu danda'a?",
+      "question_ti": "ንCBEBIRR ከመይ ጌረ ክምዝገብ እኽእል?",
+      "answer_en": "You can register at any Commercial Bank of Ethiopia (CBE) branch or through our mobile banking app by providing your phone number and valid ID.",
+      "answer_am": "በማንኛውም የኢትዮጵያ ንግድ ባንክ (CBE) ቅርንጫፍ ወይም በሞባይል ባንኪንግ መተግበሪያችን ስልክ ቁጥርዎን እና ትክክለኛ መታወቂያዎን በማቅረብ መመዝገብ ይችላሉ።",
+      "answer_or": "Lafa damee Baankii Daldalaa Itiyoophiyaa (CBE) kamiyyuu yookiin appii baankii mobaayilaa keenya keessatti lakkoofsa bilbilaa fi eenyummaa sirrii keessan kennuun galmaa'uu dandeessu.",
+      "answer_ti": "ኣብ ዝኾነ ጨንፈር ንግዲ ባንኪ ኢትዮጵያ (CBE) ወይ ብሞባይል ባንኪንግ መተግበሪና ቁፅሪ ስልኽኻን ግቡእ መፍለዪኻን ብምሃብ ክትምዝገብ ትኽእል ኢኻ።"
+    },
+    {
+      "question_en": "Can I transfer money from CBEBIRR to another bank?",
+      "question_am": "ከCBEBIRR ወደ ሌላ ባንክ ገንዘብ ማስተላለፍ እችላለሁን?",
+      "question_or": "CBEBIRR irraa gara baankii biraatti maallaqa dabarsuu nan danda'aa?",
+      "question_ti": "ካብ CBEBIRR ናብ ካልእ ባንኪ ገንዘብ ከሕልፍ እኽእል ዶ?",
+      "answer_en": "Yes, CBEBIRR allows interbank transfers. You can send money to accounts in other banks using the CBEBIRR USSD code or mobile app.",
+      "answer_am": "አዎ፣ CBEBIRR የባንኮች መካከል ዝውውሮችን ይፈቅዳል። የCBEBIRR USSD ኮድ ወይም የሞባይል መተግበሪያን በመጠቀም ወደ ሌሎች ባንኮች ሂሳቦች ገንዘብ መላክ ይችላሉ።",
+      "answer_or": "Eeyyee, CBEBIRR jijjiirraa baankii gidduutti ni hayyama. Koodii USSD CBEBIRR yookiin appii mobaayilaa fayyadamuun gara herrega baankii birootti maallaqa ergachuu dandeessu.",
+      "answer_ti": "እወ፣ CBEBIRR ኣብ መንጎ ባንክታት ዝውውር ይፈቅድ እዩ። ኮድ USSD ናይ CBEBIRR ወይ መተግበሪ ሞባይል ብምጥቃም ናብ ሒሳባት ካልኦት ባንኪታት ገንዘብ ክትልእኽ ትኽእል ኢኻ።"
+    },
+    {
+      "question_en": "What are the daily transaction limits for CBEBIRR?",
+      "question_am": "ለCBEBIRR ዕለታዊ የግብይት ገደቦች ምንድን ናቸው?",
+      "question_or": "Daangaan dalagaa guyyaa CBEBIRR maal fa'a?",
+      "question_ti": "ዕለታዊ ናይ ግብይት ገደባት CBEBIRR እንታይ እዩ?",
+      "answer_en": "The daily transaction limit is ETB 50,000 for individuals and ETB 200,000 for businesses.",
+      "answer_am": "የዕለታዊ የግብይት ገደብ ለግለሰቦች 50,000 ብር እና ለንግዶች 200,000 ብር ነው።",
+      "answer_or": "Daangaan dalagaa guyyaa namoota dhuunfaatiif ETB 50,000 fi daldaltootaaf ETB 200,000 dha.",
+      "answer_ti": "ዕለታዊ ናይ ግብይት ገደብ ንውልቀሰባት 50,000 ብር ንንግድታት ድማ 200,000 ብር እዩ።"
+    }
+  ]
+}
