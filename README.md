@@ -35,3 +35,13 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for financial sector Q&A
 git clone https://github.com/your-repo/financial-chatbot.git
 cd financial-chatbot
 pip install -r requirements.txt
+├── app/
+│   ├── main.py           # FastAPI/Flask backend
+│   ├── rag_pipeline.py   # RAG logic
+│   └── utils/
+├── ui/
+│   ├── streamlit_app.py
+│   └── react/ or flutter/
+├── data/                 # Knowledge base documents
+├── config.yaml
+└── requirements.txt
