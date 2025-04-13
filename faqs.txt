@@ -1,146 +1,196 @@
-1️⃣ Credit Services FAQs
-Q1: What types of credit services does the bank offer?
-A1: Our bank offers personal loans, business loans, mortgage loans, and overdraft facilities.
+Savings Accounts
+Q: What is the minimum balance required to open a savings account?
+A: The minimum balance is 50 birr.
+Q: የባንክ መለያ ለመክፈት ያስፈልጋል?
+A: ቢያንስ 50 ብር ነው ያስፈልገው።
+Q: Akaakuun kuusaa maallaqaa maalii?
+A: Maallaqa xinnaa banuuf barbaachisu 50 Birr dha.
 
-Q2: How can I apply for a credit loan?
-A2: You can apply online through our banking portal or visit any branch with valid identification, proof of income, and collateral documents (if required).
+Q: Is there a monthly fee for savings accounts?
+A: No monthly fees for savings accounts.
+Q: የቁጠባ ሂሳብ ወርሃዊ ክፍያ አለው?
+A: አይ፣ የቁጠባ ሂሳብ ወርሃዊ ክፍያ የለውም።
+Q: Akkaawuntii kuusaa keessatti kaffaltii ji'aa jira?
+A: Lakki, akkaawuntii kuusaa kaffaltii ji'aa hin qabu.
 
-Q3: What is the interest rate for credit loans?
-A3: Interest rates vary based on loan type and duration. Please visit our website or contact customer service for updated rates.
+Credit Services
+Q: What is the interest rate for personal loans?
+A: Personal loans have 7% annual interest.
+Q: የግላዊ ብድር የወለድ መጠን ስንት ነው?
+A: የግላዊ ብድር ወለድ 7% በዓመት ነው።
+Q: Gaarii namaa irratti baatii meeqa?
+A: Baatii gaarii namaa waggaa tokko 7% dha.
 
-Q4: How long does it take for a credit loan to be approved?
-A4: Loan approval usually takes 3–7 business days, depending on document verification and credit assessment.
+Q: How long does loan approval take?
+A: Approval takes 3-5 working days.
+Q: ብድር ለመፍቀድ ምን ያህል ጊዜ ይወስዳል?
+A: ፍቃድ ለማግኘት 3-5 የስራ ቀናት ይወስዳል።
+Q: Gaarii ergaa argachuuf yeroo meeqa fudhata?
+A: Yeroo 3-5 guyyaa hojii fudhata.
 
-2️⃣ CBEBIRR (Mobile Money) FAQs
-Q5: What is CBEBIRR?
-A5: CBEBIRR is a mobile money service that allows users to send, receive, and store money via their mobile phones.
+CBE Birr Mobile Money
+Q: How do I register for mobile banking?
+A: Dial *847# and follow instructions.
+Q: ሞባይል ባንክ ለመመዝገብ እንዴት ነው?
+A: *847# ደውለው መመሪያዎችን ይከተሉ።
+Q: Baankii mobaayilii galmeessuuf akkam?
+A: *847# tuqi ergaa hordofi.
 
-Q6: How do I register for CBEBIRR?
-A6: You can register at any Commercial Bank of Ethiopia (CBE) branch or through our mobile banking app by providing your phone number and valid ID.
+Q: What is the maximum daily transfer limit?
+A: The daily limit is 10,000 birr.
+Q: በቀን ከፍተኛ የማስተላለፊያ መጠን ስንት ነው?
+A: በቀን 10,000 ብር ነው።
+Q: Guyyaa tokkoof meeqa dhiyeessuu dandeenya?
+A: Guyyaa tokkoof 10,000 Birr dha.
 
-Q7: Can I transfer money from CBEBIRR to another bank?
-A7: Yes, CBEBIRR allows interbank transfers. You can send money to accounts in other banks using the CBEBIRR USSD code or mobile app.
+Foreign Currency
+Q: What currencies can I exchange?
+A: USD, EUR, GBP, and more.
+Q: ምን ምን አይነት ምንዛሪ መለወጥ ይቻላል?
+A: ዶላር፣ ዩሮ፣ ፓውንድ እና ሌሎች።
+Q: Maallaqa meeqa jijjiiruu nan danda'aa?
+A: USD, EUR, GBP fi kanneen biroo.
 
-Q8: What are the daily transaction limits for CBEBIRR?
-A8: The daily transaction limit is ETB 50,000 for individuals and ETB 200,000 for businesses.
+Q: Is there a limit on foreign currency purchase?
+A: Yes, limits apply based on purpose.
+Q: የውጭ ምንዛሪ መግዣ ገደብ አለው?
+A: አዎ፣ ዓላማ �ይ በማይ ገደብ አለው።
+Q: Maallaqa alaa bitachuuf lakkoofsi jira?
+A: Eeyyee, waantiif kan hundaa'u irratti hunda.
 
-3️⃣ Digital Banking FAQs
-Q9: What digital banking services does CBE offer?
-A9: CBE offers mobile banking, internet banking, card banking, and digital payments for secure online transactions.
+ATM Services
+Q: What is the daily ATM withdrawal limit?
+A: 10,000 birr per day.
+Q: በቀን ከኤቲኤም ምን ያህል መሳል ይቻላል?
+A: በቀን 10,000 ብር ነው።
+Q: ATM irraa guyyaa tokkoof meeqa baasuu dandeenya?
+A: Guyyaa tokkoof 10,000 Birr.
 
-Q10: How can I reset my digital banking password?
-A10: You can reset your password using the "Forgot Password" option on the mobile banking app or contact customer service for assistance.
+Q: What should I do if my card is stuck?
+A: Call the bank immediately.
+Q: ካርዴ ታግቶ ከተቀመጠ ምን ማድረግ አለብኝ?
+A: �ወዲያውኑ ባንክ �ይደውሉ።
+Q: Kaardii koo yoo cufame maal godhu?
+A: Dhaamsa baankii call gochuu qaba.
 
-Q11: Can I pay utility bills using digital banking?
-A11: Yes, you can pay electricity, water, internet, and other utility bills using the CBE mobile banking app.
+POS Machines
+Q: Where can I use my debit card?
+A: At any merchant with POS machine.
+Q: የዴቢት ካርዴን የት መጠቀም እችላለሁ?
+A: POS ማሽን ባለው ማንኛውም ሱቅ።
+Q: Kaardii koo eessa fayyaduu nan danda'aa?
+A: POS qabu hundaa irratti.
 
-Q12: How can I activate internet banking?
-A12: You need to visit a CBE branch to register and get internet banking credentials. After registration, log in at www.cbe.com.et to access online banking.
+Internet Banking
+Q: How do I register for online banking?
+A: Visit the website or nearest branch.
+Q: ኦንላይን ባንክ እንዴት እመዝገባለሁ?
+A: ድረገፅ ይጎብኙ ወይም ቅርንጫፍ �ይሂዱ።
+Q: Inaarnetii baankii galmeessuuf akkam?
+A: Weebsaayitii galchuu ykn braanchii dhiyaatu.
 
-4️⃣ Foreign Currency (FCY) FAQs
-Q13: What foreign currencies does the bank support?
-A13: The bank supports USD, EUR, GBP, CAD, CNY, and AED for international transactions.
+Security
+Q: What should I do if I lose my card?
+A: Call *847# to block immediately.
+Q: ካርዴ ከጠፋ ምን ማድረግ አለብኝ?
+A: *951# ደውለው ወዲያውኑ ያግዱት።
+Q: Kaardii koo yoo badu maal godhu?
+A: *951# tuqi dhaamsa gochuu qaba.
+Savings Accounts
+Q: What is the minimum balance required to open a savings account?
+A: The minimum balance is 50 birr.
+Q: የባንክ መለያ ለመክፈት ያስፈልጋል?
+A: ቢያንስ 50 ብር ነው ያስፈልገው።
+Q: Akaakuun kuusaa maallaqaa maalii?
+A: Maallaqa xinnaa banuuf barbaachisu 50 Birr dha.
 
-Q14: How can I exchange foreign currency?
-A14: You can exchange foreign currency at any CBE branch or through the Forex Bureau at competitive rates.
+Q: Is there a monthly fee for savings accounts?
+A: No monthly fees for savings accounts.
+Q: የቁጠባ ሂሳብ ወርሃዊ ክፍያ አለው?
+A: አይ፣ �ንስብያ ሂሳብ ወርሃዊ ክፍያ የለውም።
+Q: Akkaawuntii kuusaa keessatti kaffaltii ji’aa jira?
+A: Lakki, akkaawuntii kuusaa kaffaltii ji’aa hin qabu.
 
-Q15: Can I open a foreign currency account?
-A15: Yes, both individuals and businesses can open a Foreign Currency Deposit Account (FCDA) with valid identification and supporting documents.
+Credit Services
+Q: What is the interest rate for personal loans?
+A: Personal loans have 7% annual interest.
+Q: የግላዊ ብድር የወለድ መጠን ስንት ነው?
+A: የግላዊ ብድር ወለድ 7% በዓመት ነው።
+Q: Gaarii namaa irratti baatii meeqa?
+A: Baatii gaarii namaa waggaa tokko 7% dha.
 
-Q16: What is the limit for international money transfers?
-A16: The limit varies based on transaction type and regulations. Please contact customer support for updated information.
+Q: How long does loan approval take?
+A: Approval takes 3-5 working days.
+Q: ብድር ለመፍቀድ ምን ያህል ጊዜ ይወስዳል?
+A: ፍቃድ ለማግኘት 3-5 የስራ ቀናት ይወስዳል።
+Q: Gaarii ergaa argachuuf yeroo meeqa fudhata?
+A: Yeroo 3-5 guyyaa hojii fudhata.
 
-5️⃣ Retail Banking FAQs
-Q17: What types of retail banking services does CBE provide?
-A17: CBE provides savings accounts, checking accounts, debit cards, online banking, personal loans, and wealth management services.
+CBE Birr Mobile Money
+Q: How do I register for mobile banking?
+A: Dial *847# and follow instructions.
+Q: �ሞባይል ባንክ ለመመዝገብ እንዴት ነው?
+A: *847# ደውለው መመሪያዎችን ይከተሉ።
+Q: Baankii mobaayilii galmeessuuf akkam?
+A: *847# tuqi ergaa hordofi.
 
-Q18: How do I open a savings account?
-A18: To open a savings account, visit a branch with a valid ID, a passport-size photo, and an initial deposit.
+Q: What is the maximum daily transfer limit?
+A: The daily limit is 10,000 birr.
+Q: በቀን ከፍተኛ የማስተላለፊያ መጠን ስንት ነው?
+A: በቀን 10,000 ብር ነው።
+Q: Guyyaa tokkoof meeqa dhiyeessuu dandeenya?
+A: Guyyaa tokkoof 10,000 Birr dha.
 
-Q19: What are the withdrawal limits for retail accounts?
-A19: ATM withdrawal limits are ETB 10,000 per transaction and ETB 50,000 per day. Higher limits apply for in-branch withdrawals.
+Foreign Currency
+Q: What currencies can I exchange?
+A: USD, EUR, GBP, and more.
+Q: ምን ምን አይነት ምንዛሪ መለወጥ ይቻላል?
+A: ዶላር፣ ዩሮ፣ ፓውንድ �ና ሌሎች።
+Q: Maallaqa meeqa jijjiiruu nan danda’aa?
+A: USD, EUR, GBP fi kanneen biroo.
 
-Q20: How can I check my account balance?
-A20: You can check your balance via ATM, mobile banking, internet banking, or by dialing the USSD code *889#.
+Q: Is there a limit on foreign currency purchase?
+A: Yes, limits apply based on purpose.
+Q: የውጭ �ምንዛሪ መግዣ ገደብ አለው?
+A: አዎ፣ ዓላማ ላይ በመመርኮዝ ገደብ አለው።
+Q: Maallaqa alaa bitachuuf lakkoofsi jira?
+A: Eeyyee, waantiif kan hundaa’u irratti hunda.
 
-6️⃣ Wholesale Banking FAQs
-Q21: What is wholesale banking?
-A21: Wholesale banking provides financial services to large corporations, government entities, and institutional clients.
+ATM Services
+Q: What is the daily ATM withdrawal limit?
+A: 10,000 birr per day.
+Q: በቀን ከኤቲኤም ምን ያህል መሳል ይቻላል?
+A: በቀን 10,000 ብር ነው።
+Q: ATM irraa guyyaa tokkoof meeqa baasuu dandeenya?
+A: Guyyaa tokkoof 10,000 Birr.
 
-Q22: What financing options are available for businesses?
-A22: CBE offers working capital loans, trade finance, overdraft facilities, and treasury management services.
+Q: What should I do if my card is stuck?
+A: Call the bank immediately.
+Q: ካርዴ ታግቶ ከተቀመጠ ምን ማድረግ አለብኝ?
+A: ወዲያውኑ ባንክ ይደውሉ።
+Q: Kaardii koo yoo cufame maal godhu?
+A: Dhaamsa baankii call gochuu qaba.
 
-Q23: How can businesses access bulk payment services?
-A23: Businesses can use corporate internet banking to make bulk payments such as salary disbursements, vendor payments, and tax payments.
+POS Machines
+Q: Where can I use my debit card?
+A: At any merchant with a POS machine.
+Q: የዴቢት ካርዴን የት መጠቀም እችላለሁ?
+A: POS ማሽን ባለው ማንኛውም ሱቅ።
+Q: Kaardii koo eessa fayyaduu nan danda’aa?
+A: POS qabu hundaa irratti.
 
-Q24: Does CBE provide trade finance services?
-A24: Yes, CBE offers letters of credit (LC), bank guarantees, and export financing to support international trade.
+Internet Banking
+Q: How do I register for online banking?
+A: Visit the website or nearest branch.
+Q: ኦንላይን ባንክ እንዴት እመዝገባለሁ?
+A: ድረገፅ ይጎብኙ ወይም ቅርንጫፍ �ይሂዱ።
+Q: Inaarnetii baankii galmeessuuf akkam?
+A: Weebsaayitii galchuu ykn braanchii dhiyaatu.
 
-
-
-1️⃣ General Information about CBE
-Q1: What is the history of the Commercial Bank of Ethiopia (CBE)?
-A1:
-The Commercial Bank of Ethiopia (CBE) was established in 1942 and is the largest bank in Ethiopia. It plays a key role in the country’s financial sector, offering retail, corporate, and international banking services. Over the years, CBE has modernized its services by introducing digital banking, mobile money (CBEBIRR), and international banking solutions.
-
-Q2: How many branches does CBE have?
-A2:
-As of the latest update, CBE has over 2,000 branches across Ethiopia and serves more than 38 million account holders. It is the largest bank in East Africa in terms of assets and customer base.
-
-2️⃣ Credit Services FAQs
-Q3: What types of credit services does CBE offer?
-A3: CBE provides personal loans, business loans, mortgage loans, agricultural loans, and overdraft facilities.
-
-Q4: How can I apply for a loan?
-A4: You can apply through CBE branches or the online banking portal by submitting valid identification, proof of income, and collateral documents (if required).
-
-Q5: What is the interest rate for credit loans?
-A5: Interest rates vary by loan type. Please visit the CBE website or contact customer service for current rates.
-
-3️⃣ CBEBIRR (Mobile Money) FAQs
-Q6: What is CBEBIRR?
-A6: CBEBIRR is CBE’s mobile money platform, allowing users to send, receive, and store money using their mobile phones.
-
-Q7: How do I register for CBEBIRR?
-A7: Register at a CBE branch or using the CBEBIRR mobile app with a valid ID and phone number.
-
-Q8: What are the transaction limits for CBEBIRR?
-A8: The daily transaction limit is ETB 50,000 for individuals and ETB 200,000 for businesses.
-
-4️⃣ Digital Banking FAQs
-Q9: What digital banking services does CBE offer?
-A9: CBE provides mobile banking, internet banking, ATM services, and digital payments.
-
-Q10: How can I activate internet banking?
-A10: Visit a CBE branch to register, then log in at www.cbe.com.et to access online banking.
-
-Q11: Can I pay bills using digital banking?
-A11: Yes, you can pay utility bills, taxes, and mobile top-ups using the CBE mobile banking app.
-
-5️⃣ Foreign Currency (FCY) FAQs
-Q12: What foreign currencies does CBE support?
-A12: CBE supports USD, EUR, GBP, CAD, CNY, and AED for international transactions.
-
-Q13: Can I open a foreign currency account at CBE?
-A13: Yes, both individuals and businesses can open an FCY deposit account.
-
-Q14: What is the international money transfer limit?
-A14: Limits vary by country and regulations. Contact CBE Forex Services for details.
-
-6️⃣ Retail Banking FAQs
-Q15: How do I open a savings account at CBE?
-A15: Visit any CBE branch with a valid ID, a passport-size photo, and an initial deposit.
-
-Q16: What are the withdrawal limits for ATMs?
-A16: The daily ATM withdrawal limit is ETB 50,000.
-
-Q17: How can I check my account balance?
-A17: You can check your balance via ATM, mobile banking, or USSD (*889#).
-
-7️⃣ Wholesale Banking FAQs
-Q18: What financing options does CBE provide for businesses?
-A18: CBE offers working capital loans, trade finance, and overdraft facilities.
-
-Q19: How can businesses make bulk payments?
-A19: Businesses can use corporate internet banking for salary payments, vendor payments, and tax payments.
-
+Security
+Q: What should I do if I lose my card?
+A: Call *847# to block immediately.
+Q: ካርዴ ከጠፋ ምን ማድረግ አለብኝ?
+A: *951# ደውለው ወዲያውኑ ያግዱት።
+Q: Kaardii koo yoo badu maal godhu?
+A: *951# tuqi dhaamsa gochuu qaba.
