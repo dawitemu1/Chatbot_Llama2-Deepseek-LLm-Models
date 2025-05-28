@@ -3,11 +3,13 @@ from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_community.llms import Ollama
+from googletrans import Translator
 import os
 
 # --------------------- Configuration ---------------------
 os.environ["TRANSFORMERS_NO_TF"] = "1"
-FAISS_DB_PATH = "faiss_faqs_db"
+FAISS_DB_PATH = "faiss_faqs_db1"
+translator = Translator()
 
 # --------------------- Load LLM & Vector Store ---------------------
 llm = Ollama(model="llama2")
@@ -34,7 +36,7 @@ qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
 # --------------------- Streamlit Chatbot UI ---------------------
 st.set_page_config(page_title="CBE Chatbot", page_icon="💬")
 st.title("💬 CBE AI Chatbot")
-st.caption("Ask me anything about Commercial Bank of Ethiopia's Chatbot powered by LLM.")
+st.caption("Multilingual Chatbot (English & Amharic) for Commercial Bank of Ethiopia.")
 
 # Initialize session state
 if "chat_history" not in st.session_state:
@@ -47,28 +49,42 @@ for msg in st.session_state.chat_history:
     with st.chat_message("assistant"):
         st.markdown(msg["bot"])
 
-# Chat input box
-user_message = st.chat_input("Type your question and press Enter to Get Answer...")
+# Chat input
+user_message = st.chat_input("Ask in English or Amharic...")
 
-# Response generation
 if user_message:
     st.chat_message("user").markdown(user_message)
 
-    prompt = (
-        "You are a helpful assistant trained on Commercial Bank of Ethiopia's Chatbot powered by Llama2. "
-        "Provide clear, concise, and context-aware answers.\n\n"
-        f"User: {user_message.strip()}\nAssistant:"
-    )
-
     try:
-        response = qa_chain.run(prompt)
+        # Detect language
+        detected_lang = translator.detect(user_message).lang
 
-        with st.chat_message("assistant"):
-            st.markdown(f"💡 **Answer:** {response}")
+        # Translate to English if it's Amharic or another language
+        if detected_lang != "en":
+            translated_input = translator.translate(user_message, dest='en').text
+        else:
+            translated_input = user_message
+
+        # Prepare prompt and get answer
+        prompt = (
+            "You are a helpful assistant trained on Commercial Bank of Ethiopia's FAQs. "
+            "Provide clear, concise, and context-aware answers.\n\n"
+            f"User: {translated_input.strip()}\nAssistant:"
+        )
+        english_response = qa_chain.run(prompt)
+
+        # Translate back to original language if needed
+        if detected_lang != "en":
+            final_response = translator.translate(english_response, dest=detected_lang).text
+        else:
+            final_response = english_response
+
+        # Display assistant response
+        st.chat_message("assistant").markdown(f"💡 **Answer:** {final_response}")
 
         st.session_state.chat_history.append({
             "user": user_message.strip(),
-            "bot": f"💡 **Answer:** {response}"
+            "bot": f"💡 **Answer:** {final_response}"
         })
 
     except Exception as e:
